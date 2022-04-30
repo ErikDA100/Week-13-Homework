@@ -81,3 +81,5 @@ SSH into the control node and follow the steps below:
 Copy the install-elk.yml file to Ansible instance.
 Update the hosts file to include elk serever
 Run the playbook, and navigate.
+
+Diagrams/SECURITY TAREA.png
